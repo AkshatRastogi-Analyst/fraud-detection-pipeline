@@ -49,6 +49,8 @@ Power BI dashboard built on `predictions.csv` and the database tables: ![Power B
 ![Precision-recall curve](images/pr_curve.png)
 ![Feature importance](images/feature_importance.png)
 
+Live project page: https://akshatrastogi-analyst.github.io/fraud-detection-pipeline/
+
 ## How to run
 ```
 pip install -r requirements.txt
