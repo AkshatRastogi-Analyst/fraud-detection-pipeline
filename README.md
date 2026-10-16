@@ -1,3 +1,5 @@
+## Live Site - https://akshatrastogi-analyst.github.io/fraud-detection-pipeline/
+
 # Credit Card Fraud Detection: Data Pipeline + ML Model
 
 End-to-end project: raw transaction data -> automated validation and cleaning -> database -> ML models -> Power BI dashboard.
@@ -49,7 +51,6 @@ Power BI dashboard built on `predictions.csv` and the database tables: ![Power B
 ![Precision-recall curve](images/pr_curve.png)
 ![Feature importance](images/feature_importance.png)
 
-Live project page: https://akshatrastogi-analyst.github.io/fraud-detection-pipeline/
 
 ## How to run
 ```
